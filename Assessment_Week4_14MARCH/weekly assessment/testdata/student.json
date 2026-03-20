@@ -1,0 +1,38 @@
+[
+  {
+    "firstName": "nikhil",
+    "lastName": "tank",
+    "email": "nikhil@test.com",
+    "gender": "Male",
+    "mobile": "9878300000",
+    "dob": {
+      "day": "13",
+      "month": "august",
+      "year": "2003"
+    }
+  },
+  {
+    "firstName": "Divya",
+    "lastName": "aggarwal",
+    "email": "divya@test.com",
+    "gender": "Female",
+    "mobile": "987456211",
+    "dob": {
+      "day": "1",
+      "month": "July",
+      "year": "1992"
+    }
+  },
+  {
+    "firstName": "Arun",
+    "lastName": "Singh",
+    "email": "arun@test.com",
+    "gender": "Male",
+    "mobile": "987678912",
+    "dob": {
+      "day": "20",
+      "month": "april",
+      "year": "2001"
+    }
+  }
+]
