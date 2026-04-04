@@ -1,0 +1,17 @@
+{
+  "username": "admin",
+  "password": "password123",
+  "firstname": "Nikhil",
+  "lastname": "Tank",
+  "totalprice": 16000,
+  "depositpaid": true,
+  "bookingdates": {
+    "checkin": "2026-04-04",
+    "checkout": "2026-04-10"
+    },
+  "additionalneeds": "Breakfast",
+  "id":"284",
+  "partialFirstname": "Sam",
+  "partialLastname": "Manekshaw"
+ 
+}
